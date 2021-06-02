@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DISHESLIST>
+    <DISHCATEGORY>
+        <NAME>Predjedlá</NAME>
+        <DISHES>
+            <DISH>
+                <NAME>Predjedlo 1</NAME>
+                <PRICE>5</PRICE>
+            </DISH>
+            <DISH>
+                <NAME>Predjedlo 2</NAME>
+                <PRICE>5</PRICE>
+            </DISH>
+            <DISH>
+                <NAME>Predjedlo 3</NAME>
+                <PRICE>5</PRICE>
+            </DISH>
+            <DISH>
+                <NAME>Predjedlo 4</NAME>
+                <PRICE>5</PRICE>
+            </DISH>
+        </DISHES>
+    </DISHCATEGORY>
+    <DISHCATEGORY>
+        <NAME>Polievky</NAME>
+        <DISHES>
+            <DISH>
+                <NAME>Polievka 1</NAME>
+                <PRICE>5</PRICE>
+            </DISH>
+            <DISH>
+                <NAME>Polievka 2</NAME>
+                <PRICE>5</PRICE>
+            </DISH>
+            <DISH>
+                <NAME>Polievka 3</NAME>
+                <PRICE>5</PRICE>
+            </DISH>
+            <DISH>
+                <NAME>Polievka 4</NAME>
+                <PRICE>5</PRICE>
+            </DISH>
+            <DISH>
+                <NAME>Polievka 5</NAME>
+                <PRICE>5</PRICE>
+            </DISH>
+        </DISHES>
+    </DISHCATEGORY>
+    <DISHCATEGORY>
+        <NAME>Hlavné jedlá</NAME>
+        <DISHES>
+            <DISH>
+                <NAME>Hlavné jedlo 1</NAME>
+                <PRICE>5</PRICE>
+            </DISH>
+            <DISH>
+                <NAME>Hlavné jedlo 2</NAME>
+                <PRICE>5</PRICE>
+            </DISH>
+            <DISH>
+                <NAME>Hlavné jedlo 3</NAME>
+                <PRICE>5</PRICE>
+            </DISH>
+            <DISH>
+                <NAME>Hlavné jedlo 4</NAME>
+                <PRICE>5</PRICE>
+            </DISH>
+            <DISH>
+                <NAME>Hlavné jedlo 5</NAME>
+                <PRICE>5</PRICE>
+            </DISH>
+            <DISH>
+                <NAME>Hlavné jedlo 6</NAME>
+                <PRICE>5</PRICE>
+            </DISH>
+        </DISHES>
+    </DISHCATEGORY>
+    <DISHCATEGORY>
+        <NAME>Dezerty</NAME>
+        <DISHES>
+            <DISH>
+                <NAME>Dezert 1</NAME>
+                <PRICE>8</PRICE>
+            </DISH>
+            <DISH>
+                <NAME>Dezert 2</NAME>
+                <PRICE>5</PRICE>
+            </DISH>
+            <DISH>
+                <NAME>Dezert 3</NAME>
+                <PRICE>5</PRICE>
+            </DISH>
+            <DISH>
+                <NAME>Dezert 4</NAME>
+                <PRICE>5</PRICE>
+            </DISH>
+        </DISHES>
+    </DISHCATEGORY>
+</DISHESLIST>

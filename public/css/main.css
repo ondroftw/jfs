@@ -1,0 +1,100 @@
+#main {
+    min-height: 100vh;
+    background-image: url("/static/restaurant.png");
+}
+
+#main h1 {
+    font-size: 70px;
+    text-shadow: 0 0 15px black;
+}
+
+h2 {
+    font-size: 50px;
+}
+
+.elevated-shadow {
+    box-shadow: 5px 5px 10px rgba(0,0,0,.5);
+}
+
+.color-white {
+    color: white;
+}
+
+.font-dancing-script {
+    font-family: 'Dancing Script', cursive;
+}
+
+.bg-lightbrown {
+    background: #f2e0ac;
+}
+
+.bg-darkbrown {
+    background: #423221;
+}
+
+footer {
+    color: white;
+}
+
+.card-list {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+.card-list li {
+    padding: 15px 0;
+}
+
+.card-list li:not(:last-child) {
+    border-bottom: 1px dashed #423221;
+}
+
+.blog-item:not(:last-child):not(.no-dash) {
+    border-bottom: 1px solid grey;
+}
+
+.sidebar {
+    padding: 10px;
+    border: 1px solid lightgray;
+    border-radius: 10px;
+}
+
+.sidebar-blog-item {
+    border: 1px solid lightgray;
+    padding: 5px;
+    border-radius: 10px;
+}
+
+.sidebar-blog-item p {
+    line-height: 1;
+}
+
+.sidebar-blog-item img {
+    border-radius: 5px;
+}
+
+.sidebar-blog-item h4 {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+span.required {
+    color: red;
+}
+
+.responsive-iframe-container {
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+    padding-top: 30%;
+}
+
+.responsive-iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    width: 100%;
+    height: 100%;
+}
